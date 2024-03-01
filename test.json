@@ -11,7 +11,7 @@
   "fb_banner": "3940256099942544",
   "fb_interstitial": "3940256099942544",
   "fb_native": "3940256099942544",
-  "stations_url": "https://kurdin.s3.us-west-1.amazonaws.com/server/marathi.json",
+  "stations_url": "https://storage.googleapis.com/pandoutah/radio_json_187/afghanistan.txt",
   "contact": "mailto:contact@azrotv.com",
   "website": "http://azrotv.com/radio/apps/pages/radio-arab/",
   "telegram": "https://t.me/oui9mobi",
