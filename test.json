@@ -18,7 +18,7 @@
   "facebook": "https://www.facebook.com/oui9mobi/",
   "report": "http://radio.azrotv.com/contactus/",
   "add_station_url": "http://radio.azrotv.com/contactus/addstion.php",
-  "force_update": false,
+  "force_update": true,
   "update_url": "https://play.google.com/store/apps/details?id=fm.radio.arab",
   "version_name": "4.5",
   "update_message": "update app"
