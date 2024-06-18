@@ -18,7 +18,7 @@
   "5stars": "https://www.facebook.com/oui9mobi/",
   "report": "http://radio.azrotv.com/contactus/",
   "add_station_url": "http://radio.azrotv.com/contactus/addstion.php",
-  "force_update": true,
+  "force_update": false,
   "update_url": "https://play.google.com/store/apps/details?id=com.asemob.radioapp.Marathi",
   "version_name": "1.0",
   "update_message": "update app"
