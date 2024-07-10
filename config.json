@@ -5,12 +5,12 @@
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
     "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-    "banner_ad_position": 1,
-    "interstitial_ad_interval": 5,
+    "banner_ad_position": 2,
+    "interstitial_ad_interval": 3,
     "native_ad_interval": 10,
-    "native_ad_index": 10,
+    "native_ad_index": 8,
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.whatsapp",
-    "more_apps_url": "https://play.google.com/store/apps/dev?id=8797606602150852799",
+    "more_apps_url": "https://play.google.com/store/apps/dev?id=5700313618786177705",
     "privacy_policy": "<p>Privacy Policy</p>"
 }
